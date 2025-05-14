@@ -1,5 +1,5 @@
 # SCM_Analysis
-Inventory &amp; Supply Chain Management Dashboard using Power BI
+Inventory & Supply Chain Management Dashboard using Power BI, focused on making operations easier to track and optimize with clear, visual insights.
 
 The dashboard highlights 3 key KPIs:
 
